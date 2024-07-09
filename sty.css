@@ -1,0 +1,11 @@
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 10rem;
+    margin-block-end: 10rem;
+    margin-inline-start: auto;
+    margin-inline-end: absolute;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 30px;
+}
